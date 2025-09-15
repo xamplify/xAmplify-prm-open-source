@@ -56,9 +56,10 @@ We welcome contributions from the community! Here's how to get started:
 
 ## 📄 License
 
-This project is licensed under the **MIT License**.  
-See the [`LICENSE`](./LICENSE) file for full terms.
-
+xAmplify PRM Open Source is licensed under the GNU AGPL v3.0.  
+You can freely use, modify, and self-host this project.  
+If you run a modified version as a network service (e.g., SaaS), you must also share your modifications under AGPL v3.  
+For commercial integrations, advanced modules, and enterprise support, see [xAmplify Cloud](https://xamplify.com).
 ---
 
 ## 🌍 Maintained by
